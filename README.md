@@ -1,5 +1,7 @@
 # Dimensionality-Reduction-Using-Autoencoder
 
+**Authors: [Sayan Hazra](https://github.com/sayan0506) & [Sankalpa Chowdhury](https://github.com/sankalpachowdhury)**
+
 * In this project the focus is reducing the dimensionality of data using autoencoder and comparative study with PCA.
 
 * The sklearn Make_blob custom dataset is created, which consists of 20000 samples corresponfding having 50different dimesions correspond to 20 different clusters.
