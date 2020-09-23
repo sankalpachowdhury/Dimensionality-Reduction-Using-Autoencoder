@@ -12,7 +12,7 @@
 
 ![Image](Image/1_IGCFwMEZBHrsww8HzBpAEw.png)
 
-**Fig. shows a deep autoencoder network, more info. on this can be found from references.**
+**Fig. shows a deep Autoencoder network, more info. on this can be found from references.**
 
 * The PCA finds the linear relationship between feaures of the dataset, where the Autoencoder finds the non-linear relationship between data, thus it gives much more efficient result, as the combined feature is much more efficient to depict the combined effect of the dimensions.
 
